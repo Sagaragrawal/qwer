@@ -33,7 +33,7 @@
 									</value>
 								</member>
 								<member>
-									<name>supervisionPeriodExpiryFlag</name>
+								<name>supervisionPeriodExpiryFlag</name>
 									<value>
 										<boolean>0</boolean>
 									</value>
